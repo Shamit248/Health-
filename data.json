@@ -1,0 +1,85 @@
+{
+    "medicines": [
+        {
+            "image": "Paracetamol.jpg",
+            "name": "Paracetamol",
+            "description": "An analgesic and antipyretic medication used to relieve pain and reduce fever.",
+            "uses": [
+                "Pain relief",
+                "Fever reduction",
+                "Headache and muscle pain treatment"
+            ],
+            "dosage": {
+                "amount": "500mg",
+                "frequency": "Up to 4 times a day",
+                "maximum_daily_dose": "2000mg"
+            },
+            "expiry_date": "Best Before 3 yrs of packging",
+            "manufacturer": "ABC Pharma",
+            "side_effects": [
+                "Nausea",
+                "Liver damage (if overdosed)",
+                "Allergic reactions (rare)"
+            ],
+            "precautions": [
+                "Avoid alcohol consumption while taking this medicine",
+                "Do not exceed the recommended dosage",
+                "Consult a doctor if symptoms persist beyond 3 days"
+            ]
+        },
+        {
+            "image": "Cremaffin.jpg",
+            "name": "Cremaffin",
+            "description": "A laxative syrup that helps relieve constipation and promote bowel movement.",
+            "uses": [
+                "Treatment of constipation",
+                "Softens stool for easier passage"
+            ],
+            "dosage": {
+                "amount": "15ml",
+                "frequency": "Before bed or as prescribed",
+                "maximum_daily_dose": "30ml"
+            },
+            "expiry_date": "Best Before 1yrs of packging",
+            "manufacturer": "XYZ Pharmaceuticals",
+            "side_effects": [
+                "Diarrhea",
+                "Abdominal cramps",
+                "Bloating"
+            ],
+            "precautions": [
+                "Do not use for prolonged periods without medical advice",
+                "Drink plenty of water for better effectiveness",
+                "Consult a doctor if symptoms persist"
+            ]
+        },
+        {
+            "image": "Telmisartan.jpg",
+            "name": "Telmisartan",
+            "description": "An antihypertensive drug used to lower high blood pressure and prevent cardiovascular risks.",
+            "uses": [
+                "Treatment of high blood pressure (Hypertension)",
+                "Prevention of heart attack and stroke",
+                "Management of diabetic kidney disease"
+            ],
+            "dosage": {
+                "amount": "20mg",
+                "frequency": "Once daily",
+                "maximum_daily_dose": "80mg (under medical supervision)"
+            },
+            "expiry_date": "Best Before 3 yrs of packging",
+            "manufacturer": "PQR Healthcare",
+            "side_effects": [
+                "Dizziness",
+                "Low blood pressure",
+                "Fatigue",
+                "Increased potassium levels (rare)"
+            ],
+            "precautions": [
+                "Avoid potassium-rich foods if advised by a doctor",
+                "Do not stop medication suddenly without consulting a doctor",
+                "Monitor blood pressure regularly"
+            ]
+        }
+    ]
+}
